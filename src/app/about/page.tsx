@@ -89,7 +89,7 @@ export default function AboutPage() {
             <div className="relative">
               <div className="w-80 h-80 mx-auto relative overflow-hidden rounded-2xl shadow-2xl">
                 <img 
-                  src="/pandit-ji-photo.svg" 
+                  src="/pandit ji.jpeg" 
                   alt="Pandit Rajkumar Ji" 
                   className="w-full h-full object-cover"
                 />
