@@ -12,22 +12,22 @@ export default function Home() {
 
   const testimonials = [
     {
-      name: "Priya Sharma",
-      location: "Mumbai",
+      name: "Anjali Pancharia",
+      location: "Delhi",
       text: "Pandit Rajkumar Ji's predictions were incredibly accurate. His remedies helped me overcome major obstacles in my career.",
       rating: 5,
       image: "👩‍🦰"
     },
     {
-      name: "Rahul Verma",
-      location: "Delhi", 
+      name: "Karan sharma",
+      location: "Nokha", 
       text: "The kundli analysis was detailed and insightful. Pandit Ji provided practical solutions that really worked.",
       rating: 5,
       image: "👨‍💼"
     },
     {
-      name: "Anjali Patel",
-      location: "Ahmedabad",
+      name: "Divya Joshi",
+      location: "Bikaner",
       text: "His guidance during my difficult phase was life-changing. The remedies suggested were simple yet powerful.",
       rating: 5,
       image: "👩‍💼"
