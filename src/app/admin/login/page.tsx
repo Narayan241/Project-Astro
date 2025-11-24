@@ -122,14 +122,6 @@ export default function AdminLogin() {
             </form>
 
             <div className="mt-8 text-center">
-              <div className="bg-amber-900/20 rounded-lg p-4 border border-amber-400/30">
-                <h4 className="text-white font-semibold mb-2">Admin Credentials</h4>
-                <div className="space-y-2 text-amber-100 text-sm">
-                  <p><strong>Email:</strong> rajkumar196712@gmail.com</p>
-                  <p><strong>Password:</strong> admin123</p>
-                </div>
-              </div>
-              
               <div className="mt-6 text-center">
                 <Link 
                   href="/"
