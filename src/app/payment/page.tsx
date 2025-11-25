@@ -90,7 +90,7 @@ export default function PaymentPage() {
     
     try {
       // First, create the booking in the database
-      const bookingResponse = await fetch('/api/bookings', {
+      const bookingResponse = await fetch('/api/booking', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
