@@ -58,7 +58,7 @@ export default function Home() {
           </Badge>
 
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-            World - Famous Vedic Astrologer
+            precious Vedic Astrologer
             <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 to-yellow-400">
               Pandit Rajkumar Ji
