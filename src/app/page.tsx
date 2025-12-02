@@ -90,7 +90,7 @@ export default function Home() {
               <div className="text-sm">Years Experience</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-amber-400">10K +</div>
+              <div className="text-3xl font-bold text-amber-400">5K +</div>
               <div className="text-sm">Happy Clients</div>
             </div>
             <div className="text-center">
