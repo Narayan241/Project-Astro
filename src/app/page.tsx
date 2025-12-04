@@ -58,7 +58,7 @@ export default function Home() {
           </Badge>
 
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-            precious Vedic Astrologer
+            Precious Vedic Astrologer
             <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 to-yellow-400">
               Pandit Rajkumar Ji
@@ -90,7 +90,7 @@ export default function Home() {
               <div className="text-sm">Years Experience</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-amber-400">10K +</div>
+              <div className="text-3xl font-bold text-amber-400">5K +</div>
               <div className="text-sm">Happy Clients</div>
             </div>
             <div className="text-center">
