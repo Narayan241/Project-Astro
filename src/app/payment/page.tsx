@@ -8,6 +8,7 @@ import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { CheckCircle, Smartphone, Calendar, User, Phone, Mail, Shield, AlertCircle, ArrowRight } from 'lucide-react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function PaymentPage() {
   const [bookingData, setBookingData] = useState<any>(null)
@@ -343,12 +344,18 @@ export default function PaymentPage() {
                   <div className="bg-gradient-to-r from-amber-900/30 to-yellow-900/30 rounded-lg p-6 border border-amber-400/50">
                     <h3 className="text-lg font-semibold text-white mb-4">Scan to Pay</h3>
                     <div className="flex items-center justify-center mb-4">
-                      <div className="w-32 h-32 bg-white rounded-lg flex items-center justify-center">
-                        <div className="text-center">
-                          <div className="text-4xl mb-2">📱</div>
-                          <p className="text-gray-800 text-xs font-medium">QR Code</p>
-                        </div>
-                      </div>
+<div className="flex items-center justify-center mb-4">
+  <div className="w-40 h-40 bg-white rounded-lg p-2 flex items-center justify-center border border-amber-400/50">
+    <Image
+      src="/Qr.jpeg"
+      alt="UPI QR Code"
+      width={150}
+      height={150}
+      className="rounded-md"
+    />
+  </div>
+</div>
+
                     </div>
                     <div className="text-center">
                       <p className="text-amber-100 font-medium">Pay to: <span className="text-amber-400">rajkumar196712-3@okaxis</span></p>
