@@ -350,7 +350,7 @@ export default function PaymentPage() {
       src="/Qr.jpeg"
       alt="UPI QR Code"
       width={150}
-      height={150}
+      height={160}
       className="rounded-md"
     />
   </div>
