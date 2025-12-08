@@ -13,9 +13,6 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  icons:{
-  icon: "/favicon.png",
-  },
   title: "Pandit Rajkumar Ji - World-Famous Vedic Astrologer",
   description: "Accurate predictions, trusted remedies, and Vedic expertise from Pandit Rajkumar Ji with 25+ years of experience in Vedic astrology.",
   keywords: ["Vedic astrology", "Pandit Rajkumar Ji", "Kundli reading", "Astrology consultation", "Vedic remedies", "Indian astrology"],
